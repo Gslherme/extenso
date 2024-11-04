@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "escrita_extenso"
+			"value" : "extenso"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1163,6 +1163,42 @@
 		},
 		{
 			"name" : "escrita_extenso_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/grslh/OneDrive/Compartilhado/Programa\u00e7\u00e3o/C/extenso"
+		},
+		{
+			"name" : "extenso_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/grslh/OneDrive/Compartilhado/Programa\u00e7\u00e3o/C/extenso/cmake-build-debug"
+		},
+		{
+			"name" : "extenso_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "extenso_SOURCE_DIR",
 			"properties" : 
 			[
 				{

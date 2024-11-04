@@ -1,0 +1,4 @@
+C:/Users/grslh/OneDrive/Compartilhado/Programação/C/extenso/cmake-build-debug/CMakeFiles/extenso.dir
+C:/Users/grslh/OneDrive/Compartilhado/Programação/C/extenso/cmake-build-debug/CMakeFiles/extenso_cli.dir
+C:/Users/grslh/OneDrive/Compartilhado/Programação/C/extenso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/grslh/OneDrive/Compartilhado/Programação/C/extenso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
